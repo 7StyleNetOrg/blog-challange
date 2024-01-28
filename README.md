@@ -7,7 +7,7 @@ Build a Simple Blogging Platform
 Objective:
 Create a web application where users can read, create, edit, and delete blog posts. This platform should have a simple but effective user interface and a backend server to handle data management.
 
-#Frontend Requirements:
+# Frontend Requirements:
 
 Technology: Use React with TypeScript.
 Features:
