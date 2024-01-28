@@ -1,8 +1,12 @@
 # blog-challange
 
-#Task Description:
 
-Build a Simple Blogging Platform
+# IMPORTANT: Time Constraint:
+You have a maximum of 4 hours to work on this project. It's not expected to complete all features; prioritize showcasing your coding and structuring skills.
+
+
+
+# Build a Simple Blogging Platform
 
 Objective:
 Create a web application where users can read, create, edit, and delete blog posts. This platform should have a simple but effective user interface and a backend server to handle data management.
