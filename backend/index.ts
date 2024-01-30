@@ -2,7 +2,7 @@ import express from "express";
 import bodyParser from "body-parser";
 import cors from "cors";
 import dotenv from "dotenv";
-import blogRoutes from "./src/routes/blogRoutes/index";
+import blogRoutes from "./src/routes/blogRoutes";
 
 dotenv.config();
 
